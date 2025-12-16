@@ -1,4 +1,4 @@
-# CRUD Operations with FastAPI and CockroachDB/PostgreSQL
+# CRUD Operations with FastAPI
 
 ## Setup
 
